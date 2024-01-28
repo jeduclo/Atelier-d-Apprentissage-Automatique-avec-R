@@ -1,0 +1,27 @@
+{
+    "id": "FE474DC4",
+    "path": "C:/Dashboards/R-Lectures/R Lecture-1/Machine Learning/session-1.R",
+    "project_path": "session-1.R",
+    "type": "r_source",
+    "hash": "3910972034",
+    "contents": "",
+    "dirty": false,
+    "created": 1706453385468.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "260,54",
+        "scrollLine": "249"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1706453705,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1706453705827,
+    "read_only": false,
+    "read_only_alternatives": []
+}
